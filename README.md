@@ -1,7 +1,7 @@
 # keygen-demo
 ### 前提
 1. 安装python
-2. 在阿里云-计算巢部署KeyGen服务端
+2. 在阿里云-[计算巢部署KeyGen服务端](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceName=Keygen%E7%A4%BE%E5%8C%BA%E7%89%88)
 
 ### 代码流程
 命令行进入app文件夹，执行：
